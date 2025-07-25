@@ -74,10 +74,11 @@ body {
     color: var(--text-color);
     font-weight: 500;
     transition: var(--transition);
+    color: #388E3C;
 }
 
 .nav ul li a:hover {
-    color: var(--primary-color);
+    color: #81C784;
 }
 
 /* Hero Section */
